@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="1" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-17T16:47:32 IST" name="Suite" finished-at="2022-12-17T16:48:28 IST" duration-ms="56073">
+    <groups>
+    </groups>
+    <test started-at="2022-12-17T16:47:32 IST" name="Test" finished-at="2022-12-17T16:48:28 IST" duration-ms="56073">
+      <class name="com.edusoln.runner.TestNGRunner">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.edusoln.runner.TestNGRunner@6a62689d]" started-at="2022-12-17T16:47:32 IST" name="beforeTest" finished-at="2022-12-17T16:47:33 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.edusoln.runner.TestNGRunner@6a62689d]" started-at="2022-12-17T16:47:34 IST" name="browserSetUp" finished-at="2022-12-17T16:47:49 IST" duration-ms="15079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestNGRunner@6a62689d]" started-at="2022-12-17T16:47:49 IST" name="testcase" data-provider="dp" finished-at="2022-12-17T16:47:55 IST" duration-ms="6131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{User id=Admin, Execute=Yes, TestCaseObjective=Verify Login works fine, AddEmployee=No, FirstName=No, LastName=No, MiddleName=No, EmpiID=No, Test case no=1, Password=admin123}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.edusoln.runner.TestNGRunner@6a62689d]" started-at="2022-12-17T16:47:55 IST" name="tearDown" finished-at="2022-12-17T16:47:56 IST" duration-ms="832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.edusoln.runner.TestNGRunner@6a62689d]" started-at="2022-12-17T16:47:56 IST" name="browserSetUp" finished-at="2022-12-17T16:48:04 IST" duration-ms="8505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestNGRunner@6a62689d]" started-at="2022-12-17T16:48:04 IST" name="testcase" data-provider="dp" finished-at="2022-12-17T16:48:15 IST" duration-ms="10822" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{User id=Admin, Execute=Yes, TestCaseObjective=Verify Add employee works fine, AddEmployee=Yes, FirstName=Sachin, LastName=Tendulkar, MiddleName=Ramesh, EmpiID=100, Test case no=2, Password=admin123}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <i class="oxd-icon bi-plus" data-v-013b3fcc="" data-v-654f8522=""></i> is not clickable at point (494, 350). Other element would receive the click: <div class="oxd-form-loader" data-v-2027e1a1="">...</div>
+  (Session info: chrome=108.0.5359.125)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-554G7MR', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0634f2bf6645299d6f71bcc7ef52f970, clickElement {id=875f98b4-1d86-49d8-9519-c5d0c5d14034}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Sid\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:53059}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53059/devtoo..., se:cdpVersion: 108.0.5359.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (0634f2bf6645299d6f71bcc7ef52f970)] -> css selector: i[class='oxd-icon bi-plus']]
+Session ID: 0634f2bf6645299d6f71bcc7ef52f970]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <i class="oxd-icon bi-plus" data-v-013b3fcc="" data-v-654f8522=""></i> is not clickable at point (494, 350). Other element would receive the click: <div class="oxd-form-loader" data-v-2027e1a1="">...</div>
+  (Session info: chrome=108.0.5359.125)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-554G7MR', ip: '192.168.1.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0634f2bf6645299d6f71bcc7ef52f970, clickElement {id=875f98b4-1d86-49d8-9519-c5d0c5d14034}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Sid\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:53059}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53059/devtoo..., se:cdpVersion: 108.0.5359.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (0634f2bf6645299d6f71bcc7ef52f970)] -> css selector: i[class='oxd-icon bi-plus']]
+Session ID: 0634f2bf6645299d6f71bcc7ef52f970
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at com.sun.proxy.$Proxy35.click(Unknown Source)
+at com.edusoln.pom.PIMPage.addemployee(PIMPage.java:60)
+at com.edusoln.runner.TestNGRunner.testcase(TestNGRunner.java:72)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.edusoln.runner.TestNGRunner@6a62689d]" started-at="2022-12-17T16:48:15 IST" name="tearDown" finished-at="2022-12-17T16:48:16 IST" duration-ms="807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.edusoln.runner.TestNGRunner@6a62689d]" started-at="2022-12-17T16:48:16 IST" name="browserSetUp" finished-at="2022-12-17T16:48:27 IST" duration-ms="11060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestNGRunner@6a62689d]" started-at="2022-12-17T16:48:27 IST" name="testcase" data-provider="dp" finished-at="2022-12-17T16:48:27 IST" duration-ms="5" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{User id=Admin, Execute=No, TestCaseObjective=Verify Add employee works fine, AddEmployee=Yes, FirstName=Sourav, LastName=Ganguly, MiddleName=test, EmpiID=77, Test case no=3, Password=admin123}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Test case is not run ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Test case is not run 
+at com.edusoln.runner.TestNGRunner.testcase(TestNGRunner.java:80)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.edusoln.runner.TestNGRunner@6a62689d]" started-at="2022-12-17T16:48:27 IST" name="tearDown" finished-at="2022-12-17T16:48:28 IST" duration-ms="788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.edusoln.runner.TestNGRunner@6a62689d]" started-at="2022-12-17T16:48:28 IST" name="afterTest" finished-at="2022-12-17T16:48:28 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.edusoln.runner.TestNGRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

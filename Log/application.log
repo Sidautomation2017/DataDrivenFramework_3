@@ -1,0 +1,151 @@
+[INFO ] 2022-11-26 18:33:15.149 [main] TestNGRunner - reprot has been generated
+[INFO ] 2022-11-26 18:33:15.163 [main] TestNGRunner - execution has been completed
+[INFO ] 2022-12-17 15:28:01.142 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 15:28:16.617 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:28:16.629 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 15:28:21.609 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 15:28:21.646 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 15:28:29.581 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:28:29.585 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 15:28:34.064 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 15:28:51.898 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 15:29:03.164 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:29:03.166 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 15:29:03.166 [main] TestNGRunner - test has been skipped
+[INFO ] 2022-12-17 15:29:04.468 [main] TestNGRunner - reprot has been generated
+[INFO ] 2022-12-17 15:29:04.468 [main] TestNGRunner - execution has been completed
+[INFO ] 2022-12-17 15:39:25.781 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 15:39:34.018 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:39:34.024 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 15:39:38.217 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 15:39:38.217 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 15:39:44.711 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:39:44.711 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 15:39:49.025 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 15:40:07.846 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 15:40:15.819 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:40:15.820 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 15:40:15.821 [main] TestNGRunner - test has been skipped
+[INFO ] 2022-12-17 15:40:16.855 [main] TestNGRunner - reprot has been generated
+[INFO ] 2022-12-17 15:40:16.856 [main] TestNGRunner - execution has been completed
+[INFO ] 2022-12-17 15:42:20.347 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 15:42:28.862 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:42:28.866 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 15:42:33.181 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 15:42:33.209 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 15:42:42.673 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:42:42.674 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 15:42:47.308 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 15:43:07.849 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 15:43:15.364 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:43:15.366 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 15:43:15.367 [main] TestNGRunner - test has been skipped
+[INFO ] 2022-12-17 15:43:16.546 [main] TestNGRunner - reprot has been generated
+[INFO ] 2022-12-17 15:43:16.547 [main] TestNGRunner - execution has been completed
+[INFO ] 2022-12-17 15:49:00.478 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 15:49:10.118 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:49:10.126 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 15:49:15.076 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 15:49:15.094 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[INFO ] 2022-12-17 15:51:08.181 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 15:51:19.827 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:51:19.831 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 15:51:27.578 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 15:51:27.600 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 15:51:36.891 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 15:51:36.891 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 15:51:41.209 [main] LoginPage - Login is sucessfull
+[INFO ] 2022-12-17 15:54:43.146 [main] TestNGRunner - Execution has started
+[INFO ] 2022-12-17 16:05:59.370 [main] TestNGRunner - Execution has started
+[INFO ] 2022-12-17 16:06:20.625 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 16:06:26.857 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 16:06:26.861 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 16:27:35.964 [main] TestNGRunner - Execution has started
+[INFO ] 2022-12-17 16:47:33.238 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 16:47:49.254 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 16:47:49.258 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 16:47:55.335 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 16:47:55.385 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 16:48:04.726 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 16:48:04.729 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 16:48:09.440 [main] LoginPage - Login is sucessfull
+[DEBUG] 2022-12-17 16:48:27.704 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 16:48:27.706 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 16:48:27.707 [main] TestNGRunner - test has been skipped
+[INFO ] 2022-12-17 16:48:28.968 [main] TestNGRunner - reprot has been generated
+[INFO ] 2022-12-17 16:48:28.969 [main] TestNGRunner - execution has been completed
+[INFO ] 2022-12-17 17:01:21.685 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 17:01:32.179 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:01:32.184 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:01:37.493 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 17:01:37.568 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 17:01:46.289 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:01:46.290 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:01:51.188 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 17:02:09.880 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 17:02:17.264 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:02:17.266 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 17:02:17.267 [main] TestNGRunner - test has been skipped
+[INFO ] 2022-12-17 17:02:18.590 [main] TestNGRunner - reprot has been generated
+[INFO ] 2022-12-17 17:02:18.590 [main] TestNGRunner - execution has been completed
+[INFO ] 2022-12-17 17:25:43.072 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 17:25:52.764 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:25:52.768 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:25:57.044 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 17:25:57.113 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 17:26:03.668 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:26:03.669 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:26:07.641 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 17:26:25.452 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 17:26:33.338 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:26:33.339 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 17:26:33.340 [main] TestNGRunner - test has been skipped
+[INFO ] 2022-12-17 17:26:34.129 [main] TestNGRunner - reprot has been generated
+[INFO ] 2022-12-17 17:26:34.129 [main] TestNGRunner - execution has been completed
+[INFO ] 2022-12-17 17:27:46.611 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 17:27:54.195 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:27:54.198 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:27:58.261 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 17:27:58.317 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 17:28:03.990 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:28:03.991 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:28:08.010 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 17:28:25.511 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 17:28:31.597 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:28:31.598 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 17:28:31.599 [main] TestNGRunner - test has been skipped
+[INFO ] 2022-12-17 17:28:32.425 [main] TestNGRunner - reprot has been generated
+[INFO ] 2022-12-17 17:28:32.425 [main] TestNGRunner - execution has been completed
+[INFO ] 2022-12-17 17:30:40.612 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 17:30:56.248 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:30:56.253 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:31:01.501 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 17:31:01.506 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 17:31:13.165 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:31:13.166 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:31:17.547 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 17:31:34.671 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 17:31:46.750 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:31:46.751 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 17:31:46.751 [main] TestNGRunner - test has been skipped
+[INFO ] 2022-12-17 17:31:47.443 [main] TestNGRunner - reprot has been generated
+[INFO ] 2022-12-17 17:31:47.443 [main] TestNGRunner - execution has been completed
+[INFO ] 2022-12-17 17:33:48.194 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 17:33:56.754 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:33:56.761 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:34:01.071 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 17:34:01.082 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 17:34:08.368 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:34:08.369 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:34:12.422 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 17:34:30.558 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[DEBUG] 2022-12-17 17:34:36.435 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:34:36.436 [main] TestNGRunner - test has started
+[ERROR] 2022-12-17 17:34:36.436 [main] TestNGRunner - test has been skipped
+[INFO ] 2022-12-17 17:34:37.232 [main] TestNGRunner - reprot has been generated
+[INFO ] 2022-12-17 17:34:37.233 [main] TestNGRunner - execution has been completed
+[INFO ] 2022-12-17 17:41:44.908 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 17:41:53.703 [main] TestNGRunner - chrome has been launched 
+[INFO ] 2022-12-17 17:41:53.711 [main] TestNGRunner - test has started
+[INFO ] 2022-12-17 17:41:57.892 [main] LoginPage - Login is sucessfull
+[WARN ] 2022-12-17 17:41:57.909 [main] TestNGRunner - soft assertion is getting called , pls check failure if any

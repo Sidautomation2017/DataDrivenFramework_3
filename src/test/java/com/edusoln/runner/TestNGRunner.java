@@ -95,7 +95,6 @@ public class TestNGRunner extends CommonMethods {
 		report.flush();
 		log.info("reprot has been generated");
 		log.info("execution has been completed");
-		System.out.println("Execution is completed");
 	}
 	
 }

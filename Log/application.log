@@ -149,3 +149,5 @@
 [INFO ] 2022-12-17 17:41:53.711 [main] TestNGRunner - test has started
 [INFO ] 2022-12-17 17:41:57.892 [main] LoginPage - Login is sucessfull
 [WARN ] 2022-12-17 17:41:57.909 [main] TestNGRunner - soft assertion is getting called , pls check failure if any
+[INFO ] 2023-03-23 15:16:07.833 [main] TestNGRunner - Execution has started
+[INFO ] 2023-03-23 15:17:53.897 [main] TestNGRunner - Execution has started

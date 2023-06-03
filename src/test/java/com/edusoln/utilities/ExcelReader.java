@@ -2,11 +2,9 @@ package com.edusoln.utilities;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
-
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
@@ -31,6 +29,7 @@ public class ExcelReader {
 		}
 		sheet= workbook.getSheet("Data");
 		int rows = sheet.getPhysicalNumberOfRows();
+		System.out.println(rows);
 		int cols = sheet.getRow(0).getPhysicalNumberOfCells();
 		Object[][] data=new Object[rows-1][1];
 		for (int i = 1; i < rows; i++) {
